@@ -5,6 +5,10 @@ BlockOut II is an adaptation of the original Blockout DOS game edited by Califor
 It uses OpenGL. BL II has the same features than the original game. 
 Score calculation is also nearly similar to the original.
 
+Try my browser JavaScript version
+[BlockOut](  https://gamereality.se/blockout/index.php/)<br>
+
+
 ----------------------------------------------------------------
 
 CVS Repository: Code
