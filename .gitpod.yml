@@ -1,0 +1,8 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - denoland.vscode-deno@2.3.3:aFOFUSjDJT7KDqulGrZ5zA==
+    - esbenp.prettier-vscode@5.8.0:cd2Jz796EPVnD5zeCyctPw==
